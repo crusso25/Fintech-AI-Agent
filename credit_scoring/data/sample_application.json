@@ -1,0 +1,16 @@
+{
+    "Income": 85000,
+    "Age": 35,
+    "EmploymentStatus": "Employed",
+    "MaritalStatus": "Single",
+    "EducationLevel": "Bachelor",
+    "ExistingDebt": 10000,
+    "LoanAmount": 20000,
+    "TotalCreditBalance": 5000,
+    "TotalCreditLimit": 20000,
+    "MonthlyDebtPayments": 500,
+    "MonthsSinceFirstCredit": 60,
+    "LatePaymentsLast6Months": 0,
+    "LatePaymentsLast12Months": 1
+  }
+  

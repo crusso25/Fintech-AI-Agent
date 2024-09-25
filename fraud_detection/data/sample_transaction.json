@@ -1,0 +1,10 @@
+{
+    "TransactionAmount": 1500.50,
+    "TransactionTime": "2023-09-25T14:30:00",
+    "Location": "New York",
+    "MerchantType": "Electronics",
+    "Age": 35,
+    "Income": 85000,
+    "SpendingHabits": "Moderate"
+  }
+  
