@@ -17,6 +17,11 @@ echo Starting Integration API on port 8002...
 cd ../integration
 start cmd /k "uvicorn main:app --reload --port 8002"
 
+:: Start the main API server
+echo Starting Transaction Simulator API on port 8003...
+cd ../fraud_detection
+start cmd /k "transaction_simulator_api:app --reload --port 8003"
+
 :: Start Dashboard
 echo Starting Dashboard with npm...
 cd ../dashboard
