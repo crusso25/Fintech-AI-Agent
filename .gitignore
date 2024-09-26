@@ -1,6 +1,6 @@
 # Ignore large dataset files
 fraud_detection/data/creditcard.csv
-fraud_detection/data/loan.csv
+credit_scoring/data/loan.csv
 credit_scoring/data/credit_risk_dataset.csv
 
 **/__pycache__/
