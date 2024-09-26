@@ -1,9 +1,11 @@
 fastapi
 uvicorn
+pydantic
+requests
 pandas
 scikit-learn
-xgboost
 joblib
 numpy
-pydantic
+locust
+xgboost
 imbalanced-learn

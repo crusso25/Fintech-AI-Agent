@@ -45,7 +45,7 @@ function FraudAlerts() {
   // Function to start the transaction simulation
   const startSimulation = () => {
     setLoading(true);
-    axios.post('http://localhost:8003/simulate_transactions', {
+    axios.post('http://localhost:8004/simulate_transactions', {
       rate_per_minute: 120,
       duration_minutes: 5
     })
